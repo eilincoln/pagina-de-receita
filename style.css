@@ -5,7 +5,8 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-
+    font-family: "Alice", serif;
+    line-height: 150%;
 }
 
 .container {
@@ -15,4 +16,26 @@ body {
     padding: 24px;
     margin: 48px auto;
     border-radius: 24px;
+}
+
+h1 {
+    line-height: 140%;
+    font-size: 40px;
+    color: #291B1A;
+    font-weight: 400;
+}
+
+h2 {
+    color: #291B1A;
+    font-weight: 400;
+}
+
+p {
+    color: #573A37;
+    font-size: 16px;
+
+}
+
+li {
+    color: #573A37;
 }
